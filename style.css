@@ -1,0 +1,173 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 140%;
+    margin: 10px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header-logo{
+    width: 120px;
+    margin: 10px 20px 10px 100px ;
+} 
+.header-nav{
+    width: 895px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.header-nav a{
+    margin: 15px;
+    text-decoration: none;
+}
+.header-nav a:hover{
+    color: blue;
+}
+.header-btn{
+    width: 450px;
+    margin-top: 20px;
+    margin-left: -80px;
+}
+.header-btn a{
+    margin: 10px 15px;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+.header-btn-2 {
+    background-color: dodgerblue;
+    width: 200px;
+    color: white;
+}
+.header-btn-2:hover{
+    background-color: rgb(29, 120, 210);
+}
+.container2{
+    width: 105%;
+    margin: auto;
+    background-color: rgb(114, 67, 157);
+    height: 550px;
+}
+.row2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width:535px;
+    margin: 75px 30px 10px 175px;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    margin: 10px 20px ;
+    
+}
+p1{
+    font-size: 18px;
+    margin: 20px;
+}
+.content-btn{
+    width: 500px;
+    margin-top: 35px;
+    margin-left:5px;
+}
+.content-btn a{
+margin: 10px ;
+text-decoration: none;
+padding: 15px;
+font-size: 17px;
+border-radius: 5px;
+}
+
+
+.cb2{
+    background-color: rgb(70, 70, 229);
+    color: white;
+}
+.cb2:hover{
+    background-color: blue;
+}
+input[type=text]{
+    width: 53%;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(206, 202, 202);
+    font-size: 17px;
+}
+.wv-btn{
+    margin-top: 20px;
+}
+.wv-btn a{
+    margin: 10px;
+    padding: 10px;
+    color: rgb(241, 238, 238);
+}
+.box2{
+    width: 45%;
+    margin: 10px;
+}
+.box2 img{
+    margin: 75px 20px 10px 10px;
+    padding: 10px;
+    width: 500px;
+}
+.content3{
+    width: 450px;
+    margin-left: 175px;
+}
+h3{
+    font-size: 12px;
+    margin: 10px;
+}
+h4{
+    font-size: 25px;
+    margin: 10px;
+}
+p3{
+    margin: 30px;
+    padding: 0px;
+}
+p3 a{
+    color: dodgerblue;
+}
+p3 a:hover{
+    color: rgb(23, 94, 164);
+}
+.container3{
+    width: 105%;
+    margin: 10px;
+    background-color: rgb(223, 248, 240);
+    height: 600px;
+}
+.row3{
+display: flex;
+flex-wrap: wrap;
+}
+.boxq{
+    width: 20%;
+    margin: 10px;
+    padding: 140px;
+    
+}
+h4{
+    font-size: 18px;
+    
+}
+h5{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+h6{
+    font-size: 18px;
+}
+.boxw{
+    width: 40%;
+    margin: 160px 10px 10px 0px;
+}
+.boxw img{
+    width: 100%;
+    margin: 0px;
+}
